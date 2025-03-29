@@ -8,7 +8,7 @@
             <img class="small-logo min-h-[22px] max-w-none" src="assets/media/app/mini-logo.svg" />
         </a>
         <a class="hidden dark:block" href="#">
-            <img class="default-logo min-h-[22px] max-w-none" src="assets/media/app/default-logo-dark.svg" />
+            <img class="default-logo min-h-[22px] max-w-none  w-32" src="{{asset('assets/media/brand-logos/i3s-logo.png')}}" />
             <img class="small-logo min-h-[22px] max-w-none" src="assets/media/app/mini-logo.svg" />
         </a>
         <button
